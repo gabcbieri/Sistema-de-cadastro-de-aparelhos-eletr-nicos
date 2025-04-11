@@ -1,0 +1,134 @@
+[
+    {
+        "aparelho": "tv",
+        "consumo_mensal": 16.25,
+        "custo": 341.25,
+        "categoria": "Elevada"
+    },
+    {
+        "aparelho": "air",
+        "consumo_mensal": 12.5,
+        "custo": 262.5,
+        "categoria": "Elevada"
+    },
+    {
+        "aparelho": "air",
+        "consumo_mensal": 12.5,
+        "custo": 262.5,
+        "categoria": "Elevada"
+    },
+    {
+        "aparelho": "air",
+        "consumo_mensal": 12.5,
+        "custo": 262.5,
+        "categoria": "Elevada"
+    },
+    {
+        "aparelho": "Celular",
+        "consumo_mensal": 17.5,
+        "custo": 1085,
+        "categoria": "Elevada"
+    },
+    {
+        "aparelho": "Celular",
+        "consumo_mensal": 17.5,
+        "custo": 1085,
+        "categoria": "Elevada"
+    },
+    {
+        "aparelho": "Celular",
+        "consumo_mensal": 1,
+        "custo": 25,
+        "categoria": "Elevada"
+    },
+    {
+        "aparelho": "Celular",
+        "consumo_mensal": 135.72,
+        "custo": 7871.76,
+        "categoria": "Elevada"
+    },
+    {
+        "aparelho": "Celular",
+        "consumo_mensal": 0.8,
+        "custo": 16,
+        "categoria": "Elevado"
+    },
+    {
+        "aparelho": "Celular",
+        "consumo_mensal": 8,
+        "custo": 160,
+        "categoria": "Elevado"
+    },
+    {
+        "aparelho": "Celular",
+        "consumo_mensal": 8,
+        "custo": 160,
+        "categoria": "Elevado"
+    },
+    {
+        "aparelho": "f",
+        "consumo_mensal": 8,
+        "custo": 160,
+        "categoria": "Elevado"
+    },
+    {
+        "aparelho": "g",
+        "consumo_mensal": 101.00000000000001,
+        "custo": 505.00000000000006,
+        "categoria": "Elevado"
+    },
+    {
+        "aparelho": "Celular",
+        "consumo_mensal": 10,
+        "custo": 200,
+        "categoria": "Elevado"
+    },
+    {
+        "aparelho": "Celular",
+        "consumo_mensal": 10,
+        "custo": 200,
+        "categoria": "Elevado"
+    },
+    {
+        "aparelho": "Celular",
+        "consumo_mensal": 10,
+        "custo": 200,
+        "categoria": "Elevado"
+    },
+    {
+        "aparelho": "Celular",
+        "consumo_mensal": 10,
+        "custo": 200,
+        "categoria": "Elevado"
+    },
+    {
+        "aparelho": "cabo",
+        "consumo_mensal": 1,
+        "custo": 9,
+        "categoria": "Moderado"
+    },
+    {
+        "aparelho": "cabo",
+        "consumo_mensal": 1,
+        "custo": 9,
+        "categoria": "Moderado"
+    },
+    {
+        "aparelho": "cabo",
+        "consumo_mensal": 8,
+        "custo": 160,
+        "categoria": "Elevado"
+    },
+    {
+        "aparelho": "cabo",
+        "consumo_mensal": 215.99999999999997,
+        "custo": 551879.9999999999,
+        "categoria": "Elevado"
+    },
+    {
+        "aparelho": "cabo",
+        "consumo_mensal": 215.99999999999997,
+        "custo": 5399.999999999999,
+        "categoria": "Elevado"
+    }
+]
